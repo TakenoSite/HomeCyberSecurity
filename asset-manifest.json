@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HomeCyberSecurity/static/css/main.31db02e6.css",
+    "main.js": "/HomeCyberSecurity/static/js/main.05d826f6.js",
+    "static/js/787.29af8fe6.chunk.js": "/HomeCyberSecurity/static/js/787.29af8fe6.chunk.js",
+    "static/media/akachan_bed.png": "/HomeCyberSecurity/static/media/akachan_bed.1068ac7028c34a8748a3.png",
+    "static/media/Mirai.jpg": "/HomeCyberSecurity/static/media/Mirai.9229cce555c8f29d431a.jpg",
+    "static/media/loginhack.jpg": "/HomeCyberSecurity/static/media/loginhack.f4d4b56359a81df2da47.jpg",
+    "static/media/gnu_linux.jpg": "/HomeCyberSecurity/static/media/gnu_linux.4b3af69f7caec5d0d289.jpg",
+    "static/media/backdoor.jpg": "/HomeCyberSecurity/static/media/backdoor.490f43fc91a798dbd60c.jpg",
+    "index.html": "/HomeCyberSecurity/index.html",
+    "main.31db02e6.css.map": "/HomeCyberSecurity/static/css/main.31db02e6.css.map",
+    "main.05d826f6.js.map": "/HomeCyberSecurity/static/js/main.05d826f6.js.map",
+    "787.29af8fe6.chunk.js.map": "/HomeCyberSecurity/static/js/787.29af8fe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31db02e6.css",
+    "static/js/main.05d826f6.js"
+  ]
+}
